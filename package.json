@@ -1,0 +1,9 @@
+{
+  "name": "huffman-encoder",
+  "version": "0.0.0",
+  "description": "HuffmanEncoder",
+  "main": "app.js",
+  "author": {
+    "name": "willo"
+  }
+}
